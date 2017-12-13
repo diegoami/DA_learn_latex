@@ -1,0 +1,19 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{graphicx}
+\begin{document}
+\title{Using equations}
+\author{Diego Amicabile}
+\date{\today}
+\maketitle
+
+\begin{equation}
+1+2=3
+\end{equation}
+\\
+
+\begin{eqnarray}
+a & = & b + c \\
+& = & y - z
+\end{eqnarray}
+
+\end{document}
