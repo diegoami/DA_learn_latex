@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.12.13)  14 DEC 2017 19:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.12.13)  14 DEC 2017 19:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -324,14 +324,22 @@ LaTeX Info: Redefining \ref on input line 13.
 LaTeX Info: Redefining \pageref on input line 13.
 LaTeX Info: Redefining \nameref on input line 13.
 
-<reveyrand_face.png, id=4, 95.35625pt x 100.375pt>
-File: reveyrand_face.png Graphic file (type png)
- <use reveyrand_face.png>
-Package pdftex.def Info: reveyrand_face.png used on input line 22.
-(pdftex.def)             Requested size: 65.72319pt x 69.18529pt.
+
+! LaTeX Error: File `diego_face' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...graphics[width=0.15\textwidth]{diego_face}
+                                                  
+I could not locate the file with any of these extensions:
+.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
 LaTeX Font Info:    Try loading font information for U+fontawesomeone on input 
 line 32.
-
 (/usr/share/texlive/texmf-dist/tex/latex/fontawesome/ufontawesomeone.fd
 File: ufontawesomeone.fd 2015/07/30 Font definitions for U/fontawesomeone.
 )
@@ -366,23 +374,22 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 122.
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./reveyrand_face.png>]
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 207.
-
-[2]
+ [2]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 207.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 207.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 207.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 207.
  ) 
 Here is how much of TeX's memory you used:
- 7924 strings out of 493029
- 114445 string characters out of 6136233
+ 7932 strings out of 493029
+ 114400 string characters out of 6136233
  209164 words of memory out of 5000000
- 11377 multiletter control sequences out of 15000+600000
+ 11373 multiletter control sequences out of 15000+600000
  15324 words of font info for 35 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 29i,5n,30p,343b,603s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 29i,5n,30p,343b,590s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/texliv
 e/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}{/usr/share/texlive
 /texmf-dist/fonts/enc/dvips/fontawesome/fontawesomethree.enc}{/usr/share/texliv
@@ -398,10 +405,10 @@ uper/sfrm0900.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></
 usr/share/texmf/fonts/type1/public/cm-super/sfsl0800.pfb></usr/share/texmf/font
 s/type1/public/cm-super/sfsl0900.pfb></usr/share/texmf/fonts/type1/public/cm-su
 per/sfsl1000.pfb>
-Output written on main.pdf (2 pages, 244401 bytes).
+Output written on main.pdf (2 pages, 221149 bytes).
 PDF statistics:
- 85 PDF objects out of 1000 (max. 8388607)
- 65 compressed objects within 1 object stream
+ 82 PDF objects out of 1000 (max. 8388607)
+ 64 compressed objects within 1 object stream
  3 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

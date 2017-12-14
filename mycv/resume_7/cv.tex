@@ -1,0 +1,45 @@
+% !TEX TS-program = luatex
+% Awesome Source CV LaTeX Template
+%
+% This template has been downloaded from:
+% https://github.com/darwiin/awesome-neue-latex-cv
+%
+% Author:
+% Christophe Roger
+%
+% Template license:
+% CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+
+\documentclass[localFont,alternative]{yaac-another-awesome-cv}
+\newcommand{\tvSymbol}{\faTv}
+\newcommand*{\homepage}[1]{\sociallink{\tvSymbol}{http://#1}{#1}} 
+\newcommand{\skypeSymbol}{\faSkype}
+\newcommand*{\skype}[1]{\socialtext{\skypeSymbol}{#1}} 
+
+\name{Diego}{Amicabile}
+\photo{3.2cm}{diego_face}
+\tagline{Data, Machine Learning and Full Stack Engineer}
+\socialinfo{
+	\linkedin{diego-amicabile-378aa53}
+	\github{diegoami}\\
+	\homepage{www.amicabile.com} \homepage{www.techcontroversy.com} \\
+	\smartphone{+49 0157 86993847}
+	\skype{diegoami} \\
+	\email{diego.amicabile@amicabile.com}
+	\address{Berlin}\\
+}
+%------------------------------------------
+\begin{document}
+
+\makecvheader
+
+%--------------------SECTIONS-----------------------------------
+\input{section_headline}
+\input{section_competences}					% Section compétence
+\input{section_experience_short}			% Section expérience
+\input{section_langues}						% Section langues
+\input{section_scolarite}					% Section scolarité
+%\input{section_interets}					% Section intérêts
+\input{section_references} 					% Section références
+
+\end{document}
