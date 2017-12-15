@@ -327,18 +327,16 @@
 % Usage: 
 % \consultantexperience
 %  {<End date>}      {<Consultant title>}{<Consulting Enterprise>}{<Country>}
-%  {<Start date}     {<Client title>}{<Client business unit>}
-%                    {
+%  {<Start date}     {
 %                      <Experience description (Could be a list)>
 %                    }
 %                    {<Technology list>}
-\newcommand\consultantexperience[9]{
+\newcommand\consultantexperience[7]{
   \textsc{#1}    & \textsc{#2, #3, #4}   								\\*
-  \textsc{#5}    & \emph{#6} pour #7                       				\\*
-  				       & 	\begin{minipage}[t]{\rightcolumnlength}
-  						        #8
+  \textsc{#5}    & 	\begin{minipage}[t]{\rightcolumnlength}
+  						        #6
                    	\end{minipage}										\\*
-                 & \footnotesize{\foreach \n in {#9}{\cvtag{\n}}} 	\\
+                 & \footnotesize{\foreach \n in {#7}{\cvtag{\n}}} 	\\
   }
 
 \newcommand\emptySeparator{\multicolumn{2}{c}{}\\}
