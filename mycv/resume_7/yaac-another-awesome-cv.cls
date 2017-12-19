@@ -54,7 +54,7 @@
 \RequirePackage{url,parskip} 	    % other packages for formatting
 \RequirePackage[usenames,dvipsnames]{xcolor}
 \RequirePackage{fullpage}
-\RequirePackage[margin=1.5cm]{geometry}
+\RequirePackage[margin=1.2cm]{geometry}
 \RequirePackage{fontawesome}
 \RequirePackage{hyperref}
 \RequirePackage{titlesec}
@@ -64,7 +64,7 @@
 \RequirePackage{etoolbox}
 \RequirePackage{tikz}
 \RequirePackage[skins]{tcolorbox}
-
+\RequirePackage[stable]{footmisc}
 
 \DeclareUnicodeCharacter{00E9}{\'{e}}
 % Define default accent colors
@@ -145,7 +145,7 @@
 \newcommand{\mobileSymbol}{\faMobilePhone}
 \newcommand{\githubSymbol}{\faGithub}
 
-\newcommand\link[2]{\color{linkcolor}\href{#1}{#2}\color{Black} }
+\newcommand\link[2]{\href{#1}{#2}\color{Black} }
 \newcommand\important[1]{\textbf #1}
 
 % Create a tag
@@ -160,11 +160,11 @@
 
 % Render a text with its symbol
 % Usage; \socialtext{<icon>}{<label>}
-\newcommand{\socialtext}[2]{\mbox{\textcolor{symbolcolor}{#1}\hspace{0.5em}#2\hspace{1em}}}
+\newcommand{\socialtext}[2]{\mbox{{#1}\hspace{0.5em}#2\hspace{1em}}}
 
 % Render a link with its symbol
 % Usage; \sociallink{<icon>}{<label>}
-\newcommand{\sociallink}[3]{\mbox{\textcolor{symbolcolor}{#1}\hspace{0.5em}\link{#2}{#3}\hspace{1em}}}
+\newcommand{\sociallink}[3]{\mbox{{#1}\hspace{0.5em}\link{#2}{#3}\hspace{1em}}}
 
 % Define author's name
 % Usage: \name{<firstname>}{<lastname>}
@@ -267,7 +267,8 @@
 }
 
 % Resume part title definition
-\newcommand\sectionTitle[2]{\section{\texorpdfstring{\color{accentcolor}#2\enspace #1}{#1}}}
+\newcommand\sectionTitle[2]{\section{\texorpdfstring{#2\enspace #1}{#1}}}
+\newcommand\sectionTitleFoot[3]{\section{\texorpdfstring{#2\enspace #1\footnote{#3}}{#1}}}
 
 % Define a new column type for the scholarship environment
 \newcolumntype{Y}{>{\raggedleft}p{\leftcolumn}}
