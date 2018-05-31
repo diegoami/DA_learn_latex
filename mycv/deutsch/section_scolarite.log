@@ -1,0 +1,265 @@
+This is LuaTeX, Version beta-0.80.0 (TeX Live 2015/Debian) (rev 5238)  (format=lualatex 2017.12.13)  15 DEC 2017 14:46
+ restricted \write18 enabled.
+**section_scolarite.tex
+(./section_scolarite.tex
+LaTeX2e <2016/02/01>
+Babel <3.9q> and hyphenation patterns for 1 language(s) loaded.
+! Undefined control sequence.
+l.13 \sectionTitle
+                {Education}{\faMortarBoard}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 \sectionTitle{E
+                  ducation}{\faMortarBoard}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+l.13 \sectionTitle{Education}{\faMortarBoard
+                                          }
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Environment scholarship undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 \begin{scholarship}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+l.16 	\scholarshipentry
+                     {1993-1998}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.18 	\scholarshipentry
+                     {1991-1993}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: \begin{document} ended by \end{scholarship}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \end{scholarship}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+l.21 \sectionTitle
+                {Certificates}{\faCertificate}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.21 \sectionTitle{Certificates}{\faCertificate
+                                             }
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Environment scholarship undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 \begin{scholarship}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+l.23 	\scholarshipentry
+                     {2017}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.25 	\scholarshipentry
+                     {2017}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.27 	\scholarshipentry
+                     {2016}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.29 	\scholarshipentry
+                     {2015}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.31 	\scholarshipentry
+                     {2012}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.33 	\scholarshipentry
+                     {2007}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.35 	\scholarshipentry
+                     {2007}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: \begin{document} ended by \end{scholarship}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.37 \end{scholarship}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 13--38
+[][]Education
+ []
+
+
+Overfull \hbox (24.87622pt too wide) in paragraph at lines 13--38
+\OT1/cmr/bx/n/10 Mas-
+ []
+
+
+Overfull \hbox (14.47911pt too wide) in paragraph at lines 13--38
+\OT1/cmr/bx/n/10 ter
+ []
+
+
+Overfull \hbox (15.49298pt too wide) in paragraph at lines 13--38
+\OT1/cmr/bx/n/10 de-
+ []
+
+
+Overfull \hbox (21.0277pt too wide) in paragraph at lines 13--38
+\OT1/cmr/bx/n/10 gree
+ []
+
+
+Overfull \hbox (9.58328pt too wide) in paragraph at lines 13--38
+\OT1/cmr/bx/n/10 in
+ []
+
+
+Overfull \hbox (27.47208pt too wide) in paragraph at lines 13--38
+\OT1/cmr/bx/n/10 Com-
+ []
+
+
+Overfull \hbox (27.25682pt too wide) in paragraph at lines 13--38
+\OT1/cmr/bx/n/10 puter
+ []
+
+
+Overfull \hbox (17.77768pt too wide) in paragraph at lines 13--38
+\OT1/cmr/bx/n/10 En-
+ []
+
+
+Overfull \hbox (12.77771pt too wide) in paragraph at lines 13--38
+\OT1/cmr/bx/n/10 gi-
+ []
+
+
+Overfull \hbox (25.4999pt too wide) in paragraph at lines 13--38
+\OT1/cmr/bx/n/10 neer-
+ []
+
+
+Overfull \hbox (15.33325pt too wide) in paragraph at lines 13--38
+\OT1/cmr/bx/n/10 ing
+ []
+
+)
+! Emergency stop.
+<*> section_scolarite.tex
+                      
+*** (job aborted, no legal \end found)
+
+
+
+Here is how much of LuaTeX's memory you used:
+ 12 strings out of 495004
+ 100000,89155 words of node,token memory allocated 3083 words of node memory still in use:
+   14 hlist, 8 disc, 83 glue, 1 kern, 9 penalty, 383 glyph, 36 glue_spec, 1 loca
+l_par, 1 dir nodes
+   avail lists: 2:12,4:38,6:1,7:69,10:56
+ 3699 multiletter control sequences out of 65536+600000
+ 15 fonts using 601983 bytes
+ 13i,1n,10p,87b,67s stack positions out of 5000i,500n,10000p,200000b,100000s
+!  ==> Fatal error occurred, no output PDF file produced!
