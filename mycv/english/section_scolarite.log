@@ -1,4 +1,4 @@
-This is LuaTeX, Version beta-0.80.0 (TeX Live 2015/Debian) (rev 5238)  (format=lualatex 2017.12.13)  31 MAY 2018 22:16
+This is LuaTeX, Version beta-0.80.0 (TeX Live 2015/Debian) (rev 5238)  (format=lualatex 2017.12.13)  31 MAY 2018 22:23
  restricted \write18 enabled.
 **section_scolarite.tex
 (./section_scolarite.tex
@@ -65,8 +65,52 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
+
+! LaTeX Error: \begin{document} ended by \end{scholarship}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \end{scholarship}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
 ! Undefined control sequence.
-l.21 	\scholarshipentry
+l.21 \sectionTitle
+                {Courses and Certificates}{\faCertificate}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.21 ...tle{Courses and Certificates}{\faCertificate
+                                                  }
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Environment scholarship undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 \begin{scholarship}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+l.23 	\scholarshipentry
                      {2017}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -75,8 +119,8 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.23 	\scholarshipentry
-                     {2012-2016}
+l.25 	\scholarshipentry
+                     {2017}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -84,8 +128,71 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.25 	\scholarshipentry
-                     {2004-2007}
+l.27 	\scholarshipentry
+                     {2016}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.29 	\scholarshipentry
+                     {2015}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.31 	\scholarshipentry
+                     {2012}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.33 	\scholarshipentry
+                     {2007}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.35 	\scholarshipentry
+                     {2007}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.37 	\scholarshipentry
+                     {2005}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.39 	\scholarshipentry
+                     {2005}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.41 	\scholarshipentry
+                     {2004}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -99,95 +206,70 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.27 \end{scholarship}
+l.43 \end{scholarship}
                     
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 13--28
+Overfull \hbox (20.0pt too wide) in paragraph at lines 13--44
 [][]Education
  []
 
 
-Overfull \hbox (24.87622pt too wide) in paragraph at lines 13--28
+Overfull \hbox (24.87622pt too wide) in paragraph at lines 13--44
 \OT1/cmr/bx/n/10 Mas-
  []
 
 
-Overfull \hbox (14.47911pt too wide) in paragraph at lines 13--28
+Overfull \hbox (14.47911pt too wide) in paragraph at lines 13--44
 \OT1/cmr/bx/n/10 ter
  []
 
 
-Overfull \hbox (15.49298pt too wide) in paragraph at lines 13--28
+Overfull \hbox (15.49298pt too wide) in paragraph at lines 13--44
 \OT1/cmr/bx/n/10 de-
  []
 
 
-Overfull \hbox (21.0277pt too wide) in paragraph at lines 13--28
+Overfull \hbox (21.0277pt too wide) in paragraph at lines 13--44
 \OT1/cmr/bx/n/10 gree
  []
 
 
-Overfull \hbox (9.58328pt too wide) in paragraph at lines 13--28
+Overfull \hbox (9.58328pt too wide) in paragraph at lines 13--44
 \OT1/cmr/bx/n/10 in
  []
 
 
-Overfull \hbox (27.47208pt too wide) in paragraph at lines 13--28
+Overfull \hbox (27.47208pt too wide) in paragraph at lines 13--44
 \OT1/cmr/bx/n/10 Com-
  []
 
 
-Overfull \hbox (27.25682pt too wide) in paragraph at lines 13--28
+Overfull \hbox (27.25682pt too wide) in paragraph at lines 13--44
 \OT1/cmr/bx/n/10 puter
  []
 
 
-Overfull \hbox (17.77768pt too wide) in paragraph at lines 13--28
+Overfull \hbox (17.77768pt too wide) in paragraph at lines 13--44
 \OT1/cmr/bx/n/10 En-
  []
 
 
-Overfull \hbox (12.77771pt too wide) in paragraph at lines 13--28
+Overfull \hbox (12.77771pt too wide) in paragraph at lines 13--44
 \OT1/cmr/bx/n/10 gi-
  []
 
 
-Overfull \hbox (25.4999pt too wide) in paragraph at lines 13--28
+Overfull \hbox (25.4999pt too wide) in paragraph at lines 13--44
 \OT1/cmr/bx/n/10 neer-
  []
 
 
-Overfull \hbox (15.33325pt too wide) in paragraph at lines 13--28
+Overfull \hbox (15.33325pt too wide) in paragraph at lines 13--44
 \OT1/cmr/bx/n/10 ing
- []
-
-
-Overfull \hbox (39.52339pt too wide) in paragraph at lines 13--28
-\OT1/cmr/bx/n/10 Courses
- []
-
-
-Overfull \hbox (18.36794pt too wide) in paragraph at lines 13--28
-\OT1/cmr/bx/n/10 and
- []
-
-
-Overfull \hbox (22.14574pt too wide) in paragraph at lines 13--28
-\OT1/cmr/bx/n/10 Cer-
- []
-
-
-Overfull \hbox (17.8888pt too wide) in paragraph at lines 13--28
-\OT1/cmr/bx/n/10 tifi-
- []
-
-
-Overfull \hbox (24.9804pt too wide) in paragraph at lines 13--28
-\OT1/cmr/bx/n/10 cates
  []
 
 )
@@ -200,11 +282,11 @@ Overfull \hbox (24.9804pt too wide) in paragraph at lines 13--28
 
 Here is how much of LuaTeX's memory you used:
  12 strings out of 495004
- 100000,89155 words of node,token memory allocated 3320 words of node memory still in use:
-   20 hlist, 12 disc, 85 glue, 2 kern, 11 penalty, 399 glyph, 43 glue_spec, 1 lo
-cal_par, 1 dir nodes
-   avail lists: 2:12,4:9,6:1,7:69,10:35
+ 100000,89155 words of node,token memory allocated 3933 words of node memory still in use:
+   14 hlist, 8 disc, 102 glue, 1 kern, 9 penalty, 512 glyph, 36 glue_spec, 1 loc
+al_par, 1 dir nodes
+   avail lists: 2:12,4:57,6:1,7:88,10:75
  3699 multiletter control sequences out of 65536+600000
  15 fonts using 601983 bytes
- 13i,1n,10p,152b,67s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 13i,1n,10p,87b,67s stack positions out of 5000i,500n,10000p,200000b,100000s
 !  ==> Fatal error occurred, no output PDF file produced!

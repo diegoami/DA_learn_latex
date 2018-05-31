@@ -1,4 +1,4 @@
-This is LuaTeX, Version beta-0.80.0 (TeX Live 2015/Debian) (rev 5238)  (format=lualatex 2017.12.13)  31 MAY 2018 22:07
+This is LuaTeX, Version beta-0.80.0 (TeX Live 2015/Debian) (rev 5238)  (format=lualatex 2017.12.13)  1 JUN 2018 00:29
  restricted \write18 enabled.
 **section_experience_short.tex
 (./section_experience_short.tex
@@ -69,7 +69,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.26                     {M
-                         icroservices, Docker, AWS, Python, Spacy, Rasa-NLU,...
+                         icroservices, Docker, AWS, Gitlab, Python, Spacy, R...
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -286,8 +286,8 @@ Overfull \hbox (20.0pt too wide) in paragraph at lines 82--98
 
 Here is how much of LuaTeX's memory you used:
  11 strings out of 495004
- 100000,89155 words of node,token memory allocated 23436 words of node memory still in use:
-   130 hlist, 772 glue, 101 penalty, 2925 glyph, 264 glue_spec, 34 local_par, 1 
+ 100000,89155 words of node,token memory allocated 23496 words of node memory still in use:
+   130 hlist, 775 glue, 101 penalty, 2933 glyph, 264 glue_spec, 34 local_par, 1 
 dir nodes
    avail lists: 2:12,4:63,5:6,6:1,7:68,10:66
  3699 multiletter control sequences out of 65536+600000
