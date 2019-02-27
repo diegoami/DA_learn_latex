@@ -1,9 +1,41 @@
-This is LuaTeX, Version beta-0.80.0 (TeX Live 2015/Debian) (rev 5238)  (format=lualatex 2017.12.13)  1 JUN 2018 00:24
- restricted \write18 enabled.
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.2.25)  27 FEB 2019 22:24
+ restricted system commands enabled.
 **section_langues.tex
 (./section_langues.tex
-LaTeX2e <2016/02/01>
-Babel <3.9q> and hyphenation patterns for 1 language(s) loaded.
+LaTeX2e <2017-04-15>
+Lua module: luaotfload-main 2017/01/29 2.80001 OpenType layout system.
+Lua module: lualibs 2017-02-01 2.5 ConTeXt Lua standard libraries.
+Lua module: lualibs-extended 2017-02-01 2.5 ConTeXt Lua libraries -- extended co
+llection.(using write cache: /home/diego/.texlive2017/texmf-var/luatex-cache/gen
+eric)(using read cache: /var/lib/texmf/luatex-cache/generic /home/diego/.texlive
+2017/texmf-var/luatex-cache/generic)
+luaotfload | conf : Root cache directory is /home/diego/.texlive2017/texmf-var/l
+uatex-cache/generic/names.
+luaotfload | init : Loading fontloader “fontloader-2017-02-11.lua” from kpse
+-resolved path “/usr/share/texlive/texmf-dist/tex/luatex/luaotfload/fontloader
+-2017-02-11.lua”.
+Lua-only attribute luaotfload@state = 1
+Lua-only attribute luaotfload@noligature = 2
+Lua-only attribute luaotfload@syllabe = 3
+luaotfload | init : Context OpenType loader version “3.027”
+Inserting `luaotfload.node_processor' at position 1 in `pre_linebreak_filter'.
+Inserting `luaotfload.node_processor' at position 1 in `hpack_filter'.
+Inserting `luaotfload.define_font' at position 1 in `define_font'.
+Lua-only attribute luaotfload_color_attribute = 4
+luaotfload | conf : Root cache directory is /home/diego/.texlive2017/texmf-var/l
+uatex-cache/generic/names.
+Inserting `luaotfload.aux.set_sscale_dimens' at position 1 in `luaotfload.patch_
+font'.
+Inserting `luaotfload.aux.patch_cambria_domh' at position 2 in `luaotfload.patch
+_font'.
+Inserting `luaotfload.aux.fixup_fontdata' at position 1 in `luaotfload.patch_fon
+t_unsafe'.
+Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
+'.
+Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
+.
+luaotfload | main : initialization completed in 0.075 seconds
+Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
 ! Undefined control sequence.
 l.13 \twocolumnsection
                     
@@ -152,7 +184,7 @@ and I'll forget about whatever was undefined.
 
 
 Overfull \hbox (20.0pt too wide) in paragraph at lines 14--26
-[][]Languages
+[]Languages
  []
 
 ! Undefined control sequence.
@@ -192,7 +224,7 @@ and I'll forget about whatever was undefined.
 <recently read> \homepage 
           
 l.30 	\item \homepage
-                   {www.amicabile.com/javascript/} \\Contains sample Javascr...
+                   {www.europoplyrics.com} \\Pop Music videos in European la...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -208,12 +240,12 @@ and I'll forget about whatever was undefined.
 
 
 Here is how much of LuaTeX's memory you used:
- 12 strings out of 495004
- 100000,89155 words of node,token memory allocated 2818 words of node memory still in use:
-   23 hlist, 95 glue, 27 penalty, 302 glyph, 61 glue_spec, 5 local_par, 1 dir no
-des
-   avail lists: 2:12,5:2,6:1,7:11,10:9
- 3700 multiletter control sequences out of 65536+600000
- 14 fonts using 562767 bytes
- 6i,1n,6p,115b,76s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 13 strings out of 494480
+ 100000,89155 words of node,token memory allocated 3247 words of node memory still in use:
+   23 hlist, 5 local_par, 1 dir, 99 glue, 27 penalty, 302 glyph, 45 attribute, 3
+5 glue_spec, 45 attribute_list nodes
+   avail lists: 2:5,4:10,5:11,7:10,10:9
+ 4261 multiletter control sequences out of 65536+600000
+ 14 fonts using 591679 bytes
+ 6i,1n,6p,115b,84s stack positions out of 5000i,500n,10000p,200000b,100000s
 !  ==> Fatal error occurred, no output PDF file produced!
