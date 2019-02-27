@@ -1,12 +1,44 @@
-This is LuaTeX, Version beta-0.80.0 (TeX Live 2015/Debian) (rev 5238)  (format=lualatex 2017.12.13)  15 DEC 2017 20:49
- restricted \write18 enabled.
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.2.25)  27 FEB 2019 23:43
+ restricted system commands enabled.
 **section_competences.tex
 (./section_competences.tex
-LaTeX2e <2016/02/01>
-Babel <3.9q> and hyphenation patterns for 1 language(s) loaded.
+LaTeX2e <2017-04-15>
+Lua module: luaotfload-main 2017/01/29 2.80001 OpenType layout system.
+Lua module: lualibs 2017-02-01 2.5 ConTeXt Lua standard libraries.
+Lua module: lualibs-extended 2017-02-01 2.5 ConTeXt Lua libraries -- extended co
+llection.(using write cache: /home/diego/.texlive2017/texmf-var/luatex-cache/gen
+eric)(using read cache: /var/lib/texmf/luatex-cache/generic /home/diego/.texlive
+2017/texmf-var/luatex-cache/generic)
+luaotfload | conf : Root cache directory is /home/diego/.texlive2017/texmf-var/l
+uatex-cache/generic/names.
+luaotfload | init : Loading fontloader “fontloader-2017-02-11.lua” from kpse
+-resolved path “/usr/share/texlive/texmf-dist/tex/luatex/luaotfload/fontloader
+-2017-02-11.lua”.
+Lua-only attribute luaotfload@state = 1
+Lua-only attribute luaotfload@noligature = 2
+Lua-only attribute luaotfload@syllabe = 3
+luaotfload | init : Context OpenType loader version “3.027”
+Inserting `luaotfload.node_processor' at position 1 in `pre_linebreak_filter'.
+Inserting `luaotfload.node_processor' at position 1 in `hpack_filter'.
+Inserting `luaotfload.define_font' at position 1 in `define_font'.
+Lua-only attribute luaotfload_color_attribute = 4
+luaotfload | conf : Root cache directory is /home/diego/.texlive2017/texmf-var/l
+uatex-cache/generic/names.
+Inserting `luaotfload.aux.set_sscale_dimens' at position 1 in `luaotfload.patch_
+font'.
+Inserting `luaotfload.aux.patch_cambria_domh' at position 2 in `luaotfload.patch
+_font'.
+Inserting `luaotfload.aux.fixup_fontdata' at position 1 in `luaotfload.patch_fon
+t_unsafe'.
+Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
+'.
+Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
+.
+luaotfload | main : initialization completed in 0.085 seconds
+Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
 ! Undefined control sequence.
-l.13 \sectionTitle
-                {Skills \footnote{Advanced competences in bold}}{\faTasks}
+l.13 \sectionTitleFoot
+                    {Skills}{\faTasks}{Advanced skills in bold}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -20,103 +52,24 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.13 \sectionTitle{S
-                  kills \footnote{Advanced competences in bold}}{\faTasks}
+l.13 \sectionTitleFoot{S
+                      kills}{\faTasks}{Advanced skills in bold}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+l.13 \sectionTitleFoot{Skills}{\faTasks
+                                     }{Advanced skills in bold}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 13.
+(Font)              <7> on input line 15.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 13.
-! Undefined control sequence.
-\@footnotetext ...tins {\reset@font \footnotesize 
-                                                  \interlinepenalty \interfo...
-l.13 ...ills \footnote{Advanced competences in bold}
-                                                  }{\faTasks}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\@footnotetext ...}\color@begingroup \@makefntext 
-                                                  {\rule \z@ \footnotesep \i...
-l.13 ...ills \footnote{Advanced competences in bold}
-                                                  }{\faTasks}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-Overfull \hbox (16.38892pt too wide) in paragraph at lines 13--13
-[][][]\OT1/cmr/m/n/10 Ad-
- []
-
-
-Overfull \hbox (29.72229pt too wide) in paragraph at lines 13--13
-\OT1/cmr/m/n/10 vanced
- []
-
-
-Overfull \hbox (21.11115pt too wide) in paragraph at lines 13--13
-\OT1/cmr/m/n/10 com-
- []
-
-
-Overfull \hbox (13.61113pt too wide) in paragraph at lines 13--13
-\OT1/cmr/m/n/10 pe-
- []
-
-
-Overfull \hbox (26.72224pt too wide) in paragraph at lines 13--13
-\OT1/cmr/m/n/10 tences
- []
-
-
-Overfull \hbox (8.33336pt too wide) in paragraph at lines 13--13
-\OT1/cmr/m/n/10 in
- []
-
-
-Overfull \hbox (19.16673pt too wide) in paragraph at lines 13--13
-\OT1/cmr/m/n/10 bold| 
- []
-
-! Undefined control sequence.
-l.13 ...note{Advanced competences in bold}}{\faTasks
-                                                  }
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-Overfull \hbox (20.0pt too wide) in paragraph at lines 13--15
-[][]Skills
- []
-
-
-Overfull \hbox (4.48613pt too wide) in paragraph at lines 13--15
-[]
- []
-
-
-! LaTeX Error: Missing \begin{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.16 	\begin{tabular}
-                   {>{}r>{}p{13cm}}
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
+(Font)              <5> on input line 15.
 
 ! LaTeX Error: Illegal character in array arg.
 
@@ -124,7 +77,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.16 	\begin{tabular}{>{}r>{}p{13cm}}
+l.15 	\begin{tabular}{>{}r>{}p{13cm}}
                                    
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -136,7 +89,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.16 	\begin{tabular}{>{}r>{}p{13cm}}
+l.15 	\begin{tabular}{>{}r>{}p{13cm}}
                                    
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -148,7 +101,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.16 	\begin{tabular}{>{}r>{}p{13cm}}
+l.15 	\begin{tabular}{>{}r>{}p{13cm}}
                                    
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -160,12 +113,16 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.16 	\begin{tabular}{>{}r>{}p{13cm}}
+l.15 	\begin{tabular}{>{}r>{}p{13cm}}
                                    
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-)
+luaotfload | db : Font names database loaded from /home/diego/.texlive2017/texmf
+-var/luatex-cache/generic/names/luaotfload-names.luc(load luc: /home/diego/.texl
+ive2017/texmf-var/luatex-cache/generic/fonts/otl/lmromancaps10-regular.luc)(load
+ luc: /home/diego/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/lmroman1
+0-bold.luc))
 ! Emergency stop.
 <*> section_competences.tex
                         
@@ -174,12 +131,12 @@ If that doesn't work, type  X <return>  to quit.
 
 
 Here is how much of LuaTeX's memory you used:
- 25 strings out of 495004
- 100000,89155 words of node,token memory allocated 9869 words of node memory still in use:
-   66 hlist, 1 vlist, 18 rule, 1 ins, 56 disc, 4 math, 312 glue, 70 kern, 10 pen
-alty, 1020 glyph, 1 page_insert, 180 glue_spec, 1 temp, 3 local_par, 1 dir nodes
-   avail lists: 2:16,3:1,4:4,6:4,7:2,9:6
- 3700 multiletter control sequences out of 65536+600000
- 27 fonts using 1072951 bytes
- 24i,7n,16p,248b,145s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 26 strings out of 494480
+ 100000,89155 words of node,token memory allocated 6068 words of node memory still in use:
+   26 hlist, 1 vlist, 8 rule, 32 disc, 1 local_par, 1 dir, 2 math, 153 glue, 38 
+kern, 565 glyph, 123 attribute, 35 glue_spec, 123 attribute_list, 1 temp nodes
+   avail lists: 2:4,3:1,4:2,5:8,6:1,7:4,8:2,9:6
+ 4261 multiletter control sequences out of 65536+600000
+ 26 fonts using 1475671 bytes
+ 19i,7n,16p,189b,154s stack positions out of 5000i,500n,10000p,200000b,100000s
 !  ==> Fatal error occurred, no output PDF file produced!

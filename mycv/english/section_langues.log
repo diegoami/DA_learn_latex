@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.2.25)  27 FEB 2019 22:24
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.2.25)  27 FEB 2019 23:30
  restricted system commands enabled.
 **section_langues.tex
 (./section_langues.tex
@@ -34,203 +34,8 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.075 seconds
+luaotfload | main : initialization completed in 0.082 seconds
 Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
-! Undefined control sequence.
-l.13 \twocolumnsection
-                    
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.14 {\sectionTitle
-                 {Languages}{\faGlobe}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-! LaTeX Error: Missing \begin{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.14 {\sectionTitle{L
-                   anguages}{\faGlobe}
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-! Undefined control sequence.
-l.14 {\sectionTitle{Languages}{\faGlobe
-                                     }
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-! LaTeX Error: Environment skills undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.15 \begin{skills}
-                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Undefined control sequence.
-l.16 	\skill
-          {Italian}{5}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.17 	\skill
-          {English}{5}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.18 	\skill
-          {German}{5}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.19 	\skill
-          {Polish}{4}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.20 	\skill
-          {French}{3}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.21 	\skill
-          {Russian}{3}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.22 	\skill
-          {Spanish}{2}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-! LaTeX Error: \begin{document} ended by \end{skills}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.23 \end{skills}
-               }
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Undefined control sequence.
-l.24 {\sectionTitle
-                 {Personal projects}{\faPlus}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.24 {\sectionTitle{Personal projects}{\faPlus
-                                            }
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-Overfull \hbox (20.0pt too wide) in paragraph at lines 14--26
-[]Languages
- []
-
-! Undefined control sequence.
-<recently read> \homepage 
-          
-l.27 	\item \homepage
-                   {www.techcontroversy.com} \\Aggregates IT articles relati...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<recently read> \homepage 
-          
-l.28 	\item \homepage
-                   {www.chessella.com} \\To browse and share commented chess...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<recently read> \homepage 
-          
-l.29 	\item \homepage
-                   {www.faqportal.de} \\Search over a database of FAQ.
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<recently read> \homepage 
-          
-l.30 	\item \homepage
-                   {www.europoplyrics.com} \\Pop Music videos in European la...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
 )
 ! Emergency stop.
 <*> section_langues.tex
@@ -240,12 +45,11 @@ and I'll forget about whatever was undefined.
 
 
 Here is how much of LuaTeX's memory you used:
- 13 strings out of 494480
- 100000,89155 words of node,token memory allocated 3247 words of node memory still in use:
-   23 hlist, 5 local_par, 1 dir, 99 glue, 27 penalty, 302 glyph, 45 attribute, 3
-5 glue_spec, 45 attribute_list nodes
-   avail lists: 2:5,4:10,5:11,7:10,10:9
- 4261 multiletter control sequences out of 65536+600000
+ 8 strings out of 494480
+ 100000,89155 words of node,token memory allocated 244 words of node memory still in use:
+   1 dir, 35 glue_spec nodes
+   avail lists: 2:12,3:1,4:1
+ 4256 multiletter control sequences out of 65536+600000
  14 fonts using 591679 bytes
- 6i,1n,6p,115b,84s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 5i,0n,1p,85b,15s stack positions out of 5000i,500n,10000p,200000b,100000s
 !  ==> Fatal error occurred, no output PDF file produced!
