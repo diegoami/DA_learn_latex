@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.2.25)  27 FEB 2019 23:47
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.2.25)  28 FEB 2019 22:42
  restricted system commands enabled.
 **cv.tex
 (./cv.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.082 seconds
+luaotfload | main : initialization completed in 0.079 seconds
 Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
 (./yaac-another-awesome-cv.cls
 Document Class: yaac-another-awesome-cv 2017/11/17 v1.7.0 'YAAC: Another Awesome
@@ -1437,26 +1437,24 @@ LaTeX Info: Redefining \nameref on input line 37.
 
 \openout6 = cv.out
  ABD: EveryShipout initializing macros
-Underfull \hbox (badness 10000) in paragraph at lines 39--39
+Underfull \hbox (badness 10000) in paragraph at lines 38--38
 
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 39.
+(Font)              <7> on input line 38.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 39.
+(Font)              <5> on input line 38.
 <diego_face.png, id=23, 874.26625pt x 1006.76125pt>
 File: diego_face.png Graphic file (type png)
 <use diego_face.png>
-Package luatex.def Info: diego_face.png  used on input line 39.
+Package luatex.def Info: diego_face.png  used on input line 38.
 (luatex.def)             Requested size: 874.26411pt x 1006.75879pt.
 (./section_headline.tex) (./section_competences.tex
 Underfull \hbox (badness 10000) in paragraph at lines 12--11
 
  []
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 13.
 ) (./section_experience_short.tex
 Overfull \hbox (1.05774pt too wide) in paragraph at lines 15--12
 [][]  
@@ -1466,43 +1464,34 @@ Overfull \hbox (1.05774pt too wide) in paragraph at lines 15--12
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}<./diego_face.png>])
 [2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 45.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 45.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 43.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 43.
  (./cv.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 45.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 45.
-
-
-Package rerunfilecheck Warning: File `cv.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `cv.out':
-(rerunfilecheck)             Before: 2EBF3430FB0E6BE807A32335B21C3869;105
-(rerunfilecheck)             After:  EAAF93B04C234EBA821F41E92BE87EC8;91.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 45.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 43.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 43.
+Package rerunfilecheck Info: File `cv.out' has not changed.
+(rerunfilecheck)             Checksum: 34110D14FC204A78CD861FB56E94E565;110.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 43.
 )
 
 Here is how much of LuaTeX's memory you used:
- 32748 strings out of 494480
- 195328,953878 words of node,token memory allocated
- 19819 words of node memory still in use:
-   4 hlist, 1 vlist, 1 rule, 15 glue, 1 penalty, 2854 glyph, 918 attribute, 65 g
-lue_spec, 153 attribute_list, 1 write nodes
-   avail lists: 1:4,2:27031,3:4040,4:46,5:917,6:3768,7:3974,8:246,9:1499,10:12,1
-1:478
- 35871 multiletter control sequences out of 65536+600000
- 56 fonts using 11322879 bytes
+ 32741 strings out of 494480
+ 195324,953878 words of node,token memory allocated
+ 20442 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 14 glue, 1 penalty, 2952 glyph, 936 attribute, 65 g
+lue_spec, 156 attribute_list, 1 write nodes
+   avail lists: 1:6,2:29005,3:4027,4:45,5:856,6:3459,7:3893,8:239,9:1479,10:12,1
+1:437
+ 35869 multiletter control sequences out of 65536+600000
+ 53 fonts using 11136111 bytes
  62i,12n,87p,933b,846s stack positions out of 5000i,500n,10000p,200000b,100000s
-
-warning  (pdf backend): unreferenced destination with name 'Hfootnote.1'
 </usr/share/texlive/texmf-dist/fonts/opentype/public/fontawesome/FontAwesome.otf
 ><./fonts/SourceSansPro-Regular.otf><./fonts/SourceSansPro-Semibold.otf><./fonts
 /SourceSansPro-Light.otf>
-Output written on cv.pdf (2 pages, 1383713 bytes).
+Output written on cv.pdf (2 pages, 1384275 bytes).
 
-PDF statistics: 72 PDF objects out of 1000 (max. 8388607)
- 53 compressed objects within 1 object stream
- 7 named destinations out of 1000 (max. 131072)
+PDF statistics: 70 PDF objects out of 1000 (max. 8388607)
+ 51 compressed objects within 1 object stream
+ 6 named destinations out of 1000 (max. 131072)
  32 words of extra memory for PDF output out of 10000 (max. 100000000)
 

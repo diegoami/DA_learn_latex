@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.2.25)  25 FEB 2019 23:51
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.2.25)  28 FEB 2019 22:42
  restricted system commands enabled.
 **section_experience_short.tex
 (./section_experience_short.tex
@@ -34,11 +34,11 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.076 seconds
+luaotfload | main : initialization completed in 0.082 seconds
 Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
 ! Undefined control sequence.
 l.12 \sectionTitle
-                {Work Experience}{\faSuitcase}
+                {Work Experience and Education}{\faSuitcase}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -53,13 +53,13 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.12 \sectionTitle{W
-                  ork Experience}{\faSuitcase}
+                  ork Experience and Education}{\faSuitcase}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 ! Undefined control sequence.
-l.12 \sectionTitle{Work Experience}{\faSuitcase
-                                             }
+l.12 ...e{Work Experience and Education}{\faSuitcase
+                                                  }
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -88,25 +88,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-
-Overfull \hbox (20.0pt too wide) in paragraph at lines 12--18
-[]Work
- []
-
-
-! LaTeX Error: Missing \begin{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.26                     {M
-                         icroservices, Docker, AWS, Gitlab, Python, Spacy, R...
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
 ! Undefined control sequence.
-l.27   \emptySeparator
+l.19   \emptySeparator
                     
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -115,7 +98,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.28   \experience
+l.20   \experience
                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -123,13 +106,26 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-
-Overfull \hbox (20.0pt too wide) in paragraph at lines 26--31
-[]Microservices,
- []
+! Undefined control sequence.
+l.24   \emptySeparator
+                    
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.39 ...t sources relating the same story: \homepage
+l.25   \experience
+                
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.27 ...t sources relating the same story: \homepage
                                                   {www.techcontroversy.com}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -137,20 +133,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-
-! LaTeX Error: Missing \begin{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.42                     {P
-                         ython, Gensim, Pandas, Spacy, Scikit-learn, MySql, ...
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
 ! Undefined control sequence.
-l.43   \emptySeparator
+l.30   \emptySeparator
                     
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -159,7 +143,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.44   \experience
+l.31   \experience
                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -167,25 +151,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-
-Overfull \hbox (20.0pt too wide) in paragraph at lines 42--47
-[]Python,
- []
-
-
-! LaTeX Error: Missing \begin{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.56                     {J
-                         ava, J2EE, Spring, Hibernate, Websphere, Freemarker...
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
 ! Undefined control sequence.
-l.57   \emptySeparator
+l.35   \emptySeparator
                     
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -194,7 +161,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.58   \experience
+l.36   \experience
                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -202,25 +169,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-
-Overfull \hbox (20.0pt too wide) in paragraph at lines 56--61
-[]Java,
- []
-
-
-! LaTeX Error: Missing \begin{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.67                     {J
-                         ava, Spring, Wicket, EJB, Struts, Jboss, Tomcat, Ma...
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
 ! Undefined control sequence.
-l.68   \emptySeparator
+l.40   \emptySeparator
                     
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -229,7 +179,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.69   \experience
+l.41   \experience
                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -237,25 +187,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-
-Overfull \hbox (20.0pt too wide) in paragraph at lines 67--73
-[]Java,
- []
-
-
-! LaTeX Error: Missing \begin{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.82                     {J
-                         ava, J2EE, EJB, Swing, JBoss, Spring, Sybase, Ant}
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
 ! Undefined control sequence.
-l.83   \emptySeparator
+l.47   \emptySeparator
                     
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -264,7 +197,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.84   \consultantexperience
+l.48   \consultantexperience
                           
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -273,7 +206,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.90   \emptySeparator
+l.54   \emptySeparator
                     
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -282,7 +215,25 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.91   \consultantexperience
+l.55   \consultantexperience
+                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.61    \emptySeparator
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.62   \consultantexperience
                           
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -297,15 +248,15 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.97 \end{experiences}
+l.66 \end{experiences}
                     
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 82--98
-[]Java,
+Overfull \hbox (20.0pt too wide) in paragraph at lines 12--67
+[]Work
  []
 
 )
@@ -317,12 +268,12 @@ Overfull \hbox (20.0pt too wide) in paragraph at lines 82--98
 
 
 Here is how much of LuaTeX's memory you used:
- 12 strings out of 494480
- 100000,89155 words of node,token memory allocated 25805 words of node memory still in use:
-   130 hlist, 34 local_par, 1 dir, 776 glue, 101 penalty, 2942 glyph, 200 attrib
-ute, 35 glue_spec, 200 attribute_list nodes
-   avail lists: 2:2,4:67,5:15,7:69,10:66
- 4260 multiletter control sequences out of 65536+600000
+ 10 strings out of 494480
+ 100000,89155 words of node,token memory allocated 15916 words of node memory still in use:
+   3 hlist, 1 local_par, 1 dir, 333 glue, 2 penalty, 2171 glyph, 69 attribute, 3
+5 glue_spec, 69 attribute_list nodes
+   avail lists: 2:2,4:321,5:1,7:322,10:320
+ 4258 multiletter control sequences out of 65536+600000
  14 fonts using 591679 bytes
- 6i,1n,6p,206b,76s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 6i,0n,6p,246b,19s stack positions out of 5000i,500n,10000p,200000b,100000s
 !  ==> Fatal error occurred, no output PDF file produced!
