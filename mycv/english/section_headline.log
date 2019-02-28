@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.2.25)  28 FEB 2019 22:42
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.2.25)  28 FEB 2019 22:44
  restricted system commands enabled.
 **section_headline.tex
 (./section_headline.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.079 seconds
+luaotfload | main : initialization completed in 0.082 seconds
 Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
 
 ! LaTeX Error: Missing \begin{document}.
@@ -43,8 +43,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.12 E
-    xperienced Software Engineer focusing on Machine Learning and Backend. \\
+l.11 \par{E
+         xperienced Software Engineer focusing on Machine Learning and Backe...
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -58,11 +58,11 @@ If that doesn't work, type  X <return>  to quit.
 
 Here is how much of LuaTeX's memory you used:
  8 strings out of 494480
- 100000,89155 words of node,token memory allocated 738 words of node memory still in use:
-   1 hlist, 1 local_par, 1 dir, 11 glue, 2 penalty, 63 glyph, 4 attribute, 35 gl
-ue_spec, 4 attribute_list, 1 temp nodes
-   avail lists: 1:1,2:3,4:1
+ 100000,89155 words of node,token memory allocated 721 words of node memory still in use:
+   1 hlist, 1 local_par, 1 dir, 10 glue, 63 glyph, 3 attribute, 35 glue_spec, 3 
+attribute_list, 1 temp nodes
+   avail lists: 1:1,2:5,3:1,4:1
  4256 multiletter control sequences out of 65536+600000
  14 fonts using 591679 bytes
- 5i,0n,4p,96b,20s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 5i,0n,4p,99b,16s stack positions out of 5000i,500n,10000p,200000b,100000s
 !  ==> Fatal error occurred, no output PDF file produced!
